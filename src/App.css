@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.num {
+  position: absolute;
+  top: 1em;
+}
+
+.card {
+  padding: 1em;
+}
+
+body {
+  background-color: #f5d0fe;
+}
+
+.row {
+  background-color: #fff;
+  padding-right: 20em;
+}

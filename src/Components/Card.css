@@ -1,0 +1,69 @@
+.card,.info  {
+    display: flex;
+}
+
+.card {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.info {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.img {
+    border-radius: 50%;
+    background-color: black;
+    color: #fff;
+    padding: 1em;
+}
+
+.name,.age {
+    position: absolute;
+}
+
+#name-0,#age-0, #name-1,#age-1, #name-2,#age-2, #name-3,#age-3, #name-4,#age-4 {
+    left: 45.5vw;
+}
+
+#name-0 {
+    top: 33vh;
+}
+
+#age-0 {
+    top: 35vh;
+}
+
+#name-1 {
+    top: 40vh;
+}
+
+#age-1 {
+    top: 42vh;
+}
+
+#name-2 {
+    top: 46.9vh;
+}
+
+#age-2 {
+    top: 49vh;
+}
+
+#name-3 {
+    top: 54.1vh;
+}
+
+#age-3 {
+    top: 56vh;
+}
+
+#name-4 {
+    top: 60vh;
+}
+
+#age-4 {
+    top: 62vh;
+}
